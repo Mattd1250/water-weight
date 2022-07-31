@@ -1,0 +1,15 @@
+#constants {
+    width: 50%
+}
+#constants .const{
+display: flex;
+}
+
+.const label {
+    display: inline-block;
+    width: 125px;
+    padding: 5px;
+}
+#constants input {
+    width: 100px;
+}

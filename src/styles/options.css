@@ -1,0 +1,32 @@
+#weigh-in{
+  display: flex;
+}
+.col2 {
+    width: 50%;
+}
+
+.col3{
+    width: 33.3%
+}
+
+.hidden {
+    display: none;
+}
+
+.inline-block-container{
+    display: inline-block;
+}
+
+.open-list {
+    margin-left: 10px
+}
+
+.weights {
+}
+
+.weights button {
+    width: 80%;
+    height: 50px;
+    margin: 10px;
+    align-self: flex-start;
+}

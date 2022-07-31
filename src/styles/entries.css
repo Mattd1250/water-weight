@@ -1,0 +1,19 @@
+#weighIn-Section{
+    max-width: fit-content;
+    width: 90%;
+}
+
+.entry {
+    display: flex;
+    border: 1px solid #000000;
+    padding: 7px 14px 7px 7px;
+} 
+
+.weighIn-type {
+    width: 30%;
+}
+
+input {
+    width: 90%;
+}
+
